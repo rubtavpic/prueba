@@ -2063,6 +2063,11 @@ CAPULETO.- Y a su lado haré yo otra igual para Romeo.
 PRÍNCIPE.- ¡Tardía amistad y reconciliación, que alumbra un sol bien triste! 
 Seguidme: aún hay que hacer más: premiar a unos y castigar a otros. Triste historia 
 es la de Julieta y Romeo.
+<<<<<<< HEAD
+=======
+
+Romeo ahora es desarrollador sw.
+>>>>>>> refs/heads/develop
                                          
 Romeo y Julieta.		     William Shakespeare
 
